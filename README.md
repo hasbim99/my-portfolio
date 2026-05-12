@@ -24,7 +24,7 @@ Website portofolio interaktif yang menampilkan profil profesional, keahlian tekn
 
 ## 🌐 Live Demo
 Website ini dapat diakses melalui link berikut:
-[https://username.github.io/repository-name](https://username.github.io/repository-name)
+[https://hasbim99.github.io/my-portfolio](https://hasbim99.github.io/my-portfolio)
 
 ---
 *Dibuat dengan dedikasi untuk menunjukkan integrasi antara solusi IT operasional dan pengembangan aplikasi web.*
